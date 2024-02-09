@@ -1,0 +1,8 @@
+{
+  "name": "izmiradami",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
+  "rpc_url": "http://128.140.47.84:9944",
+  "explorer_url": "http://128.140.47.84:4000",
+  "metrics_endpoint": "http://128.140.47.84:9615/metrics",
+  "id": "3dbdf986-2552-4b9d-80e8-319f1d3afef9"
+}
